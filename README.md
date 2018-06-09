@@ -3,7 +3,6 @@ M5Stackでmp3ファイル再生とAvator表示のテスト
 
 
 mp3ファイル再生は、M5Stack Libraryのexample"PlayMP3FromSDToDAC"をベースにさせていただきました。<br><br>
-
 Avator表示は、meganetaaanさんのm5stack-avatorをベースにさせていただきました。<br>
 オリジナルはこちら。<br>
 An M5Stack library for rendering avatar faces <https://github.com/meganetaaan/m5stack-avator><br>
